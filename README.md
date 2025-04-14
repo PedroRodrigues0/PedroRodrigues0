@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🎲 Pedro Rodrigues
 
-<!--
-**PedroRodrigues0/PedroRodrigues0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cientista de Dados**
 
-Here are some ideas to get you started:
+Oi! Sou o Pedro.
+Atualmente sou estudante de Ciência de Dados na Escola DNC.
+Em transição de carreira e mergulhando em um novo universo que, embora desafiador, tem sido extremamente motivador.
+Estou determinado a explorar o vasto mundo dos dados e aprender a utilizá-los de forma estratégica para gerar valor e impulsionar o crescimento de empresas e negócios, ajudando-os a alcançar seus objetivos e metas com inteligência e eficiência.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Tecnologias e Ferramentas 
+ - Análise de Dados
+ - Power Bi
+ - Excel
+
+
